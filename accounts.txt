@@ -1,0 +1,12 @@
+# Accounts listed in the Investopedia article discussed in this project.
+# One author handle per line. Remove inactive/unwanted accounts as needed.
+CNBC
+Benzinga
+Stocktwits
+BreakoutStocks
+bespokeinvest
+WSJMarkets
+Stephanie_Link
+nytimesbusiness
+IBDinvestors
+WSJDealJournal

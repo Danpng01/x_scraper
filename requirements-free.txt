@@ -1,0 +1,3 @@
+# Only needed for live collection through the unofficial free source.
+# The demo, analysis, exports and official API source use the standard library.
+twikit>=2.3,<3

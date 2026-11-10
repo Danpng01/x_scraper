@@ -1,0 +1,12 @@
+credentials.txt
+x_stock_output/
+__pycache__/
+*.sqlite3
+x_cookies.json
+cookies*.json
+x_discovery_output/
+x_research_output/
+
+.env
+.env.*
+!.env.example
